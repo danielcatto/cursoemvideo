@@ -1,0 +1,4 @@
+pulei aula 1, 2, 3
+
+variaves = todas as variaveis são um objeto em python
+ 
